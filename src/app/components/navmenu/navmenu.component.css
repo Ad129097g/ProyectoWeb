@@ -1,0 +1,10 @@
+.navbar-custom {
+    background-color: #11161f !important; /* Color de fondo */
+  }
+  
+  .navbar-custom .navbar-brand,
+  .navbar-custom .nav-link,
+  .navbar-custom .dropdown-item {
+    color: white !important; /* Color de los textos */
+  }
+  
